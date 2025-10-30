@@ -1,0 +1,27 @@
+body{
+  text-align:left; 
+  background-color:white;
+  color:black;
+}
+
+.show{ 
+	text-align:center;
+}
+.text-highlight{
+	font-weight: bold;
+}
+
+.row{
+	margin-top:50px;
+	min-height:100px;
+	justify-content:space-between;
+}
+
+
+.details{
+	padding-top:30px;
+}
+
+.footer{
+text-align:right;	
+}
